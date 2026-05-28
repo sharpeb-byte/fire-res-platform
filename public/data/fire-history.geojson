@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sample Fire Event",
+        "severity": "high",
+        "year": 2020,
+        "hectares": 150000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [145.5, -37.8],
+            [146.2, -37.6],
+            [146.5, -38.2],
+            [145.8, -38.5],
+            [145.5, -37.8]
+          ]
+        ]
+      }
+    }
+  ]
+}
